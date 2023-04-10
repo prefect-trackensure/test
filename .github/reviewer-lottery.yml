@@ -5,7 +5,7 @@ groups:
       - prefect-trackensure
       - prefect1109
 
-  - name: qas
+  - name: tech-lead
     reviewers: 1
     usernames:
-      - prefect1109
+      - f159752

@@ -1,0 +1,11 @@
+groups:
+  - name: devs
+    reviewers: 1
+    usernames:
+      - prefect-trackensure
+      - prefect1109
+
+  - name: qas
+    reviewers: 1
+    usernames:
+      - prefect1109
